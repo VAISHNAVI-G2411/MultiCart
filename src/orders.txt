@@ -1,0 +1,78 @@
+Order ID: 12
+Customer ID: 12345
+Order Date: 2026-10-12
+Status: PLACED
+Total Amount: 26400.0
+----------------------------------------
+Order ID: 123
+Customer ID: 123
+Order Date: 2026-10-12
+Status: CANCELLED
+Total Amount: 1200.0
+ITEM START
+Product ID: 123
+Seller ID: 123
+Product Name: saree
+Price: 1200.0
+Quantity: 1
+----------------------------------------
+Order ID: 45
+Customer ID: 1
+Order Date: 2026-10-12
+Status: PLACED
+Total Amount: 3600.0
+ITEM START
+Product ID: 123
+Seller ID: 123
+Product Name: saree
+Price: 1200.0
+Quantity: 3
+----------------------------------------
+Order ID: 777
+Customer ID: 123
+Order Date: 2026-10-14
+Status: CANCELLED
+Total Amount: 6993.0
+ITEM START
+Product ID: 777
+Seller ID: 777
+Product Name: pant
+Price: 999.0
+Quantity: 7
+----------------------------------------
+Order ID: 666
+Customer ID: 444
+Order Date: 2026-10-14
+Status: PLACED
+Total Amount: 5994.0
+ITEM START
+Product ID: 666
+Seller ID: 666
+Product Name: lip stick
+Price: 999.0
+Quantity: 6
+----------------------------------------
+Order ID: 4787
+Customer ID: 9000
+Order Date: 2026-10-16
+Status: CANCELLED
+Total Amount: 1998.0
+ITEM START
+Product ID: 666
+Seller ID: 666
+Product Name: lip stick
+Price: 999.0
+Quantity: 2
+----------------------------------------
+Order ID: 40
+Customer ID: 50
+Order Date: 2026-10-21
+Status: CANCELLED
+Total Amount: 125.0
+ITEM START
+Product ID: 781
+Seller ID: 1227
+Product Name: pen
+Price: 25.0
+Quantity: 5
+----------------------------------------

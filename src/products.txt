@@ -1,0 +1,77 @@
+ID: 123
+Name: saree
+Category: cloths
+Price: 1200.0
+Stock: 196
+Seller ID: 123
+----------------------------------------
+ID: 122
+Name: shirt
+Category: cloths
+Price: 1000.0
+Stock: 196
+Seller ID: 122
+----------------------------------------
+ID: 777
+Name: pant
+Category: cloths
+Price: 999.0
+Stock: 497
+Seller ID: 777
+----------------------------------------
+ID: 222
+Name: lip stick
+Category: cosmetics
+Price: 599.0
+Stock: 200
+Seller ID: 222
+----------------------------------------
+ID: 333
+Name: eye liner
+Category: cosmetics
+Price: 200.0
+Stock: 300
+Seller ID: 333
+----------------------------------------
+ID: 666
+Name: lip stick
+Category: cosmetics
+Price: 999.0
+Stock: 794
+Seller ID: 666
+----------------------------------------
+ID: 10
+Name: DHAL
+Category: GROCERY
+Price: 300.0
+Stock: 4
+Seller ID: 10
+----------------------------------------
+ID: 778
+Name: df
+Category: dwfv
+Price: 23456.0
+Stock: 2
+Seller ID: 13
+----------------------------------------
+ID: 779
+Name: 
+Category: dfv
+Price: 324.0
+Stock: 233
+Seller ID: 1227
+----------------------------------------
+ID: 781
+Name: pen
+Category: stationary
+Price: 25.0
+Stock: 900
+Seller ID: 1227
+----------------------------------------
+ID: 782
+Name: toy
+Category: toys
+Price: 500.0
+Stock: 234
+Seller ID: 1227
+----------------------------------------
