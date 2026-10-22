@@ -106,13 +106,13 @@ multi_cart/
 5.Run the application:`java -cp ..\out com.main.MultiCart`
 
 ## FUTURE ENHANCEMENT
--**Database Integration:** Use MySQL to store user, product, and order details permanently.
--**User Authentication:** Improve login security and password protection.
--**Online Payment:** Integrate a secure payment gateway.
--**Web Interface:** Develop a user-friendly website for shopping.
--**Product Management:** Add product ratings, reviews, and advanced search filters.
--**Order Tracking:** Allow customers to track their order status.
--**Testing:** Add unit tests to improve application reliability.
+- **Database Integration:** Use MySQL to store user, product, and order details permanently.
+- **User Authentication:** Improve login security and password protection.
+- **Online Payment:** Integrate a secure payment gateway.
+- **Web Interface:** Develop a user-friendly website for shopping.
+- **Product Management:** Add product ratings, reviews, and advanced search filters.
+- **Order Tracking:** Allow customers to track their order status.
+- **Testing:** Add unit tests to improve application reliability.
 
 ## AUTHOR
 Vaishnavi G
