@@ -99,11 +99,11 @@ multi_cart/
     |---sellers.txt
 ```
 ## HOW TO RUN
-1.Open Command Prompt in the project folder.
-2.Set the terminal encoding to UTF-8:`chcp 65001`
-3.Copy the resource files into the output directory:`copy /Y com\resources\messages*.properties ..\out\com\resources\`
-4.Compile the Java source files:`javac -d ..\out com\model\*.java com\services\*.java com\storage\*.java com\main\MultiCart.java`
-5.Run the application:`java -cp ..\out com.main.MultiCart`
+1. Open Command Prompt in the project folder.
+2. Set the terminal encoding to UTF-8:`chcp 65001`
+3. Copy the resource files into the output directory:`copy /Y com\resources\messages*.properties ..\out\com\resources\`
+4. Compile the Java source files:`javac -d ..\out com\model\*.java com\services\*.java com\storage\*.java com\main\MultiCart.java`
+5. Run the application:`java -cp ..\out com.main.MultiCart`
 
 ## FUTURE ENHANCEMENT
 - **Database Integration:** Use MySQL to store user, product, and order details permanently.
